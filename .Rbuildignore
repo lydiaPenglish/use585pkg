@@ -1,3 +1,5 @@
+^LICENSE\.md$
+^data-raw$
 ^README\.Rmd$
 ^use585pkg\.Rproj$
 ^\.Rproj\.user$
